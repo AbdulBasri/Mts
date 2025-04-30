@@ -518,7 +518,7 @@
                     $('#nikayahProduk').val('');
                     $('#pekerjaanayahProduk').val('');
                     $('#namaibuProduk').val('');
-                    $('#nikibuProduk').val('');
+                    $('#nikibuProduk').val(''); 
                     $('#pekerjaanibuProduk').val('');
                     $('#penghasilanayahProduk').val('');
                     $('#penghasilanibuProduk').val('');
